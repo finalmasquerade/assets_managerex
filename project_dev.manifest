@@ -1,0 +1,47 @@
+{
+    "packageUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/LoginLayer",
+    "remoteManifestUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/project_dev.manifest",
+    "remoteVersionUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/version_dev.manifest",
+    "version" : "1.1.0",
+    "engineVersion" : "3.x dev",
+
+    "assets" : {
+        "Background/bg1.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg2.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg3.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg4.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg5.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg6.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg7.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg8.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg9.jpg" : {
+            "md5" : "..."
+        },
+        "Background/bg10.jpg" : {
+            "md5" : "..."
+        },
+        "compressed.zip" : {
+            "md5" : "..."
+            "compressed" : true
+        }
+    },
+
+    "searchPaths" : [
+    ]
+}
