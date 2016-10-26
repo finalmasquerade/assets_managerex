@@ -1,7 +1,7 @@
 {
-    "packageUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/LoginLayer",
-    "remoteManifestUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/project_dev.manifest",
-    "remoteVersionUrl" : "https://github.com/finalmasquerade/assets_managerex/tree/master/version_dev.manifest",
+    "packageUrl" : "https://raw.githubusercontent.com/finalmasquerade/assets_managerex/master/LoginLayer",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/finalmasquerade/assets_managerex/master/project_dev.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/finalmasquerade/assets_managerex/master/version_dev.manifest",
     "version" : "1.1.0",
     "engineVersion" : "3.0 dev"
 }
