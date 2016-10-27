@@ -35,10 +35,6 @@
         },
         "Background/bg10.jpg" : {
             "md5" : "..."
-        },
-        "compressed.zip" : {
-            "md5" : "..."
-            "compressed" : true
         }
     },
 
