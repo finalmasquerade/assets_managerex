@@ -18,6 +18,10 @@
         "Background/bg4.jpg" : {
             "md5" : "..."
         },
+        "compressed.zip" : {
+            "md5" : "..."
+            "compressed" : true
+        },
         "Background/bg5.jpg" : {
             "md5" : "..."
         },
